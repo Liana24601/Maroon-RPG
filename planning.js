@@ -22,5 +22,23 @@ basic story bullet points:
 - end: MC  has become a terrible person. Sees maroon in everything. In Rockefeller center, sees a girl near the ice skating rink wearing a maroon shirt, like the one MC wore. In a fit of rage, and blinded by guilt, the MC follows her into an alley and st*bs with a knife, ghost Robbie convinces her to. Red everywhere.
 - The police find MC sitting in a pool of blood, laughing hysterically, maroon everywhere.
 
+Actual gameplay:
+
+Part 1 (wine spill, meet after the party, laughing Robbie's apartment):
+
+The air smells of cheap perfume and theater dust.
+Robbie spins in the living room, still in costume, wearing gold eyeliner that catches the warm kitchen light.
+He twirls a wine glass, trips over a throw pillow, and crashes to the hardwood.
+The rosé flies—dark, staining, like a wound—across your burgundy shirt.
+You gasp. He stares at the mess, then up at you. His laugh bubbles up like a musical cue.
+Both of you helplessly collapse into the ground, giggling until you can't breathe properly.
+Lying on the floor, he turns his head to you. Inches apart, the gold eyeliner glints brightly as he squints his face in laughter.")
+At the party, he told you he wore it because he wanted to look like Cinna from the Hunger Games.
+In the amber light of the room, you realize that it suits him.
+"How'd we end up on the floor anyway?" Robbie asks you breathlessly.
+You don't even think before you answer:
+"Your roommate’s cheap-ass screw-top rosé, that’s how."
+You both collapse in laughter, helpless. That dirty t-shirt will never be the same.
+You’ll keep it anyway.
 
 */
