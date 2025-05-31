@@ -66,3 +66,44 @@ def wine_spill_scene():
     pause()
     slow_print("You’ll keep it anyway.") 
     change_sanity(-5)
+
+def flashback():
+    slow_print("\n—Flashback—")
+    slow_print("New York at 2AM. Robbie dances in the streetlight puddles like he’s auditioning for God.") 
+    slow_print("You’re pulled along, laced fingers, as he quotes something Shakespearean under his breath.") 
+    slow_print("Robbie: \"I'm telling you, I was born to dance under the Times Square billboards!\" he yells to you gleefully.") 
+    slow_print("You laugh as you study him. You, the hardworking, steadfast comp sci major.") 
+    slow_print("Him, the theater nerd that thinks he'll make it to Broadway.") 
+    slow_print("You hate to code, but...it's stable. Reliable. A promising future, even if you loathe it.") 
+    slow_print("But Robbie? He's a true New York dreamer. All open flame and delusion. Theatrics and melodrama.") 
+    pause()
+    slow_print("You can't imagine having that much passion.") 
+    slow_print("He continues his dancing in the Times Square lights. People stare, but he doesn't seem to care.")
+
+    print("\nHow do you respond?")
+    print("1. What are you doing?")
+    print("2. You're embarrassing yourself.")
+    print("3. People are staring, my guy.")
+    print("4. (Say nothing)")
+
+    choice = input("> ").strip()
+
+    if choice == "1":
+        slow_print("He grins. \"Whatever I want!\"")
+        change_sanity(+2)
+    elif choice == "2":
+        slow_print("\"At least I'm not being boring like you, Mrs. Grinch!\" He laughs.")
+        change_sanity(-2)
+    elif choice == "3":
+        slow_print("\"Who cares?\" he yells with glee. \"As Shakespeare once said, 'All the world's a stage!'\"")
+        change_sanity(+1)
+    elif choice == "4":
+        slow_print("Robbie waves his arms and does a silly dance to make you laugh. It works.")
+        change_sanity(+1)
+    else:
+        slow_print("Robbie cocks his head. \"That wasn't one of the options, genius.\"")
+        change_sanity(-1)
+
+    pause()
+    slow_print("You sigh as you watch him finish his crazy performance.")
+    slow_print("You envy him. Maybe even love him.")
