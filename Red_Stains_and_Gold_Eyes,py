@@ -1,0 +1,68 @@
+# Red Stains & Gold Eyes
+import time
+import sys
+
+sanity = 100
+found_funds = False
+
+def slow_print(text, delay=0.001, wait_for_input=True):
+    for char in text:
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(delay)
+    print()
+
+def pause(seconds=1.5):
+    time.sleep(seconds)
+
+def change_sanity(amount):
+    global sanity
+    sanity += amount
+    sanity = max(0, min(100, sanity))
+    if sanity <= 30:
+        slow_print("[The edges of your vision bleed maroon. Everything feels...louder.]")
+    elif sanity <= 60:
+        slow_print("[You feel... wrong. Disjointed. Like you left yourself behind.]")
+
+def intro():
+    slow_print("Red Stains & Gold Eyes")
+    slow_print("A tragedy wrapped in vibrant reds and Shakespearean plays. Inspired by the song \"Maroon\" by Taylor Swift.")
+    pause(2)
+
+def wine_spill_scene():
+    slow_print("You never wanted to kill him.") 
+    slow_print("You remember him. The air smelt of cheap incense and theater dust.") 
+    slow_print("Robbie spins in the living room, still in costume, wearing gold eyeliner that catches the warm kitchen light.") 
+    slow_print("He twirls a wine glass, trips over a throw pillow, and crashes to the hardwood.") 
+    pause()
+    slow_print("The rosé flies—dark, staining, like a wound—across your burgundy shirt.")  
+    slow_print("You gasp. His laugh bubbles up like a musical cue.")  
+    slow_print("Both of you helplessly collapse into the ground, giggling until you can't breathe properly.")  
+    slow_print("Lying on the floor, inches apart, his perfect gold eyeliner glints brightly.")  
+    slow_print("After the play, he told you he wore it because he wanted to look like Cinna from the Hunger Games.")  
+    slow_print("He catches you staring.\"New thing I’m trying out. Does it look good on me?\"")
+    print("\nHow do you respond?")
+    print("1. It's the stupidest thing I've ever seen. So ugly.")
+    print("2. Yeah, it really suits you!")
+    print("3. You look beautiful.")
+    choice = input("> ").strip()
+    if choice == "1":
+        slow_print("He laughs. \"Geez, you didn't pull back any punches, huh?\"")
+        change_sanity(-2)
+    elif choice == "2":
+        slow_print("\"Thanks, love.\" Your heart flutters.")
+        change_sanity(+2)
+    elif choice == "3":
+        slow_print("He smiles. \"Not much as you though.\"")
+        change_sanity(+5)
+    else:
+        slow_print("He blinks at you, confused. \"Was that a yes or a no?\"")
+        change_sanity(-1)
+    pause()
+    slow_print("He looks around the apartment.")
+    slow_print("\"How'd we end up on the floor anyway?\" Robbie asks you breathlessly.") 
+    slow_print("\"Your roommate’s cheap-ass screw-top rosé, that’s how.\" You shoot back.")  
+    slow_print("You both collapse in laughter. That dirty t-shirt will never be the same.")  
+    pause()
+    slow_print("You’ll keep it anyway.") 
+    change_sanity(-5)
