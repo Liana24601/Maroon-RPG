@@ -26,19 +26,28 @@ Actual gameplay:
 
 Part 1 (wine spill, meet after the party, laughing Robbie's apartment):
 
-The air smells of cheap perfume and theater dust.
+You never wanted to kill him.
+You remember him. The air smelt of cheap incense and theater dust.
 Robbie spins in the living room, still in costume, wearing gold eyeliner that catches the warm kitchen light.
 He twirls a wine glass, trips over a throw pillow, and crashes to the hardwood.
 The rosé flies—dark, staining, like a wound—across your burgundy shirt.
-You gasp. He stares at the mess, then up at you. His laugh bubbles up like a musical cue.
+You gasp. His laugh bubbles up like a musical cue.
 Both of you helplessly collapse into the ground, giggling until you can't breathe properly.
-Lying on the floor, he turns his head to you. Inches apart, the gold eyeliner glints brightly as he squints his face in laughter.")
-At the party, he told you he wore it because he wanted to look like Cinna from the Hunger Games.
-In the amber light of the room, you realize that it suits him.
-"How'd we end up on the floor anyway?" Robbie asks you breathlessly.
-You don't even think before you answer:
-"Your roommate’s cheap-ass screw-top rosé, that’s how."
-You both collapse in laughter, helpless. That dirty t-shirt will never be the same.
+Lying on the floor, inches apart, his perfect gold eyeliner glints brightly.
+After the play, he told you he wore it because he wanted to look like Cinna from the Hunger Games.
+He catches you staring."New thing I’m trying out. Does it look good on me?"
+How do you respond?
+    1. It's the stupidest thing I've ever seen. So ugly.
+    2. Yeah, it really suits you!
+    3. You look beautiful.")
+1 = He laughs. "Geez, you didn't pull back any punches, huh?"
+2 = Thanks, love."Your heart flutters."
+3 = He smiles. "Not much as you though."
+nothing = He blinks at you, confused. "Was that a yes or a no?"
+He looks around the apartment.
+"How'd we end up on the floor anyway?" Robbie asks you breathlessly. 
+"Your roommate’s cheap-ass screw-top rosé, that’s how." You shoot back.
+You both collapse in laughter. That dirty t-shirt will never be the same.  
 You’ll keep it anyway.
 
 */
