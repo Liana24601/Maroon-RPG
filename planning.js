@@ -2,6 +2,7 @@
 
 this file is gonna be used for planning out the whole story
 game name: red stains and gold eyes
+(sorry if the commit timings are kinda weird, i got so invested writing this that i forgot to commit sometimes mb)
 
 basic story bullet points:
 - Thespian Robbie with gold eyeliner, like how cinna from the hunger games wore gold eyeliner 
