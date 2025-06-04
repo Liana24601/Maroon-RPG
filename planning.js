@@ -75,4 +75,22 @@ nothing = Robbie cocks his head. "That wasn't one of the options, genius."
 You sigh as you watch him finish his crazy performance.
 You envy him. Maybe even love him.
 
+The Flood & the Funds
+
+You step into the apartment. The water comes up to your knees. The radiator screams.
+You panic. Not because the flood destroyed your and Robbie's apartment.
+But because you don't have the money to fix it.
+Your heartbeat quickens. Your palms sweat. The repair bills will crush you.
+All those dreams of a stable life...
+Gone.
+You know where Robbie hides things — he’s careless that way. He trusts too easily.
+You need money to fix the apartment. His funds for acting school... it’s somewhere.
+Where will you look?
+    1. Under Robbie's mattress
+    2. Inside his folder of audition scripts
+    3. In the dusty teapot on the shelf
+    4. Behind the giant WICKED poster
+1, 2, 4 = Empty. Dust. Nada. Try again.
+3 = The teapot rattles with hidden weight. Inside: an envelope, labeled 'Broadway, here I come!'. You hold the cash and whisper an apology he’ll never hear. Not really.
+
 */
