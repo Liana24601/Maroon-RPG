@@ -50,4 +50,28 @@ He looks around the apartment.
 You both collapse in laughter. That dirty t-shirt will never be the same.  
 You’ll keep it anyway.
 
+Part 2 - The Flashback, dancing in Times Square, 2AM, Robbie acting crazy
+
+New York at 2AM. Robbie dances in the streetlight puddles like he’s auditioning for God.
+You’re pulled along, laced fingers, as he quotes something Shakespearean under his breath.
+Robbie: "I'm telling you, I was born to dance under the Times Square billboards!" he yells to you gleefully.") 
+You laugh as you study him. You, the hardworking, steadfast comp sci major.
+Him, the theater nerd that thinks he'll make it to Broadway.
+You hate to code, but...it's stable. Reliable. A promising future, even if you loathe it.
+But Robbie? He's a true New York dreamer. All open flame and delusion. Theatrics and melodrama.
+You can't imagine having that much passion.
+He continues his dancing in the Times Square lights. People stare, but he doesn't seem to care.
+How do you respond?
+    1. What are you doing?"
+    2. You're embarrassing yourself."
+    3. People are staring, my guy.")
+    4. (Say nothing)
+1 = He grins. "Whatever I want!"
+2 = "At least I'm not being boring like you, Mrs. Grinch!" He laughs.
+3 = "Who cares?" he yells with glee. "As Shakespeare once said, 'All the world's a stage!'"
+4 = Robbie waves his arms and does a silly dance to make you laugh. It works.
+nothing = Robbie cocks his head. "That wasn't one of the options, genius."
+You sigh as you watch him finish his crazy performance.
+You envy him. Maybe even love him.
+
 */
