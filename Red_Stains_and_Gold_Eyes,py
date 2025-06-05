@@ -107,3 +107,16 @@ def flashback():
     pause()
     slow_print("You sigh as you watch him finish his crazy performance.")
     slow_print("You envy him. Maybe even love him.")
+
+def fund_puzzle():
+    global found_funds
+    slow_print("\nYou step into the apartment. The water comes up to your knees. The radiator screams.")
+    slow_print("You panic. Not because the flood destroyed your and Robbie's apartment.")
+    slow_print("But because you don't have the money to fix it.")
+    slow_print("Your heartbeat quickens. Your palms sweat. The repair bills will crush you.")
+    slow_print("All those dreams of a stable life...")
+    pause()
+    slow_print("Gone.") 
+    pause()
+    slow_print("You know where Robbie hides things — he’s careless that way. He trusts too easily.")
+    slow_print("You need money to fix the apartment. His funds for acting school... it’s somewhere.")
