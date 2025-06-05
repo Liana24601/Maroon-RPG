@@ -93,4 +93,18 @@ Where will you look?
 1, 2, 4 = Empty. Dust. Nada. Try again.
 3 = The teapot rattles with hidden weight. Inside: an envelope, labeled 'Broadway, here I come!'. You hold the cash and whisper an apology he’ll never hear. Not really.
 
+The Argument
+
+He finds out.
+Robbie: "You took it? You actually—you used the money?!"
+His eyes glisten with tears. That same gold eyeliner, now a mockery.
+Choose your reply:
+    1. "I did what I had to. You’d never have made it."
+    2. "I needed it. Our apartment was drowning, Robbie!"
+    3. "You and your stupid dreams. I'm tired of this nonsense."
+1 = He goes still. The hurt sinks deep. Robbie: "I guess I never knew you at all, Scarlett."
+2 = He shakes his head in disbelief. "So you just decided my dream was worthless?"
+3 = He screams. Quoting Shakespeare. Crying like his heart’s been pierced. You feel nothing. Or maybe too much.
+nothing = You say nothing. The silence crushes him.
+
 */
