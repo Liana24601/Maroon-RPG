@@ -120,3 +120,22 @@ def fund_puzzle():
     pause()
     slow_print("You know where Robbie hides things — he’s careless that way. He trusts too easily.")
     slow_print("You need money to fix the apartment. His funds for acting school... it’s somewhere.")
+    attempts = 0
+    while not found_funds:
+        slow_print("\nWhere will you look?")
+        slow_print("1. Under Robbie's mattress")
+        slow_print("2. Inside his folder of audition scripts")
+        slow_print("3. In the dusty teapot on the shelf")
+        slow_print("4. Behind the giant WICKED poster")
+        choice = input("> ")
+        attempts += 1
+        if choice == "3":
+            found_funds = True
+            slow_print("The teapot rattles with hidden weight. Inside: an envelope, labeled 'Broadway, here I come!'.")
+            slow_print("You hold the cash and whisper an apology he’ll never hear. Not really.")
+        else:
+            slow_print("Empty. Dust. Nada. Try again.")
+            change_sanity(-5)
+            if attempts > 4:
+                slow_print("You feel watched. The apartment is still, but somehow hostile.")
+
