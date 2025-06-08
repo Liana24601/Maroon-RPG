@@ -138,4 +138,97 @@ def fund_puzzle():
             change_sanity(-5)
             if attempts > 4:
                 slow_print("You feel watched. The apartment is still, but somehow hostile.")
+def argument_scene():
+    global sanity
+    slow_print("\nHe finds out.")
+    slow_print("Robbie: \"You took it? You actually—you used the money?!\"")
+    slow_print("His eyes glisten with tears. That same gold eyeliner, now a mockery.")
+    slow_print("Choose your reply:")
+    slow_print("1. \"I did what I had to. You’d never have made it.\"")
+    slow_print("2. \"I needed it. Our apartment was drowning, Robbie!\"")
+    slow_print("3. \"You and your stupid dreams. I'm tired of this nonsense.\"")
+    choice = input("> ")
+    if choice == "1":
+        slow_print("He goes still. The hurt sinks deep.")
+        slow_print("Robbie: \"I guess I never knew you at all, Scarlett.\"")
+        change_sanity(-25)
+    elif choice == "2":
+        slow_print("He shakes his head in disbelief. \"So you just decided my dream was worthless?\"")
+        change_sanity(-15)
+    elif choice == "3":
+        slow_print("He screams. Quoting Shakespeare. Crying like his heart’s been pierced.")
+        slow_print("You feel nothing. Or maybe too much.")
+        change_sanity(-35)
+    else:
+        slow_print("You say nothing. The silence crushes him.")
+        change_sanity(-20)
+
+def murder_scene():
+    slow_print("\nTHE PUSH:")
+    slow_print("Both of you exit the apartment in a rushed fury.")
+    slow_print("The metal stairwell echoes with both your screams. Gold eyeliner streaks. Your anger spills raw.")
+    slow_print("But when Robbie is shouting at you, there is more sadness than anger in his eyes.")
+    slow_print("He looks exactly like he did a year ago, on your birthday.")
+    slow_print("\"I can't believe I messed up so badly,\" he said back then with a sigh.")
+    slow_print("As a gift, he bought you carnations instead of roses.")
+    print("\nWhat do you say to him?")
+    print("1. It's alright, things happen.")
+    print("2. Bad mistake, man. I guess I could buy more flowers?")
+    print("3. At least they'll still look pretty on the windowsill!")
+    if choice == "1":
+        slow_print("\nHe forces a smile that doesn't make you feel quite nice.")
+    elif choice == "2":
+        slow_print("\nHis head drops in shame. You change the topic, as you regret making him feel bad with a single comment.")
+    elif choice == "3":
+        slow_print("\nHe laughs. You can still see the guilt in his face as you laugh with him. You hope that he'll forget about it like he always does.")
+    else:
+        slow_print("\nHe says nothing, confused by your silence. Maybe you were both just tired that day.")
+
+    slow_print("\nBut you remember the guilt and sorrow in his gold-lined eyes.")
+    slow_print("It mirrors the eyes you see right now.")
+
+    pause()
+    slow_print("Anger flashes through your head. So do your memories.")
+    slow_print("Dancing in NYC streets. Cafe dates and junk food. Hour-long calls on rusty landlines.") #dancing silhouette
+    slow_print("You did it to save him! To save the apartment you both shared!") #cash envelope
+    slow_print("He wouldn't ever succeed anyway, deluded by an impossible dream.") # broadway
+    slow_print("How could he not understand?") # small red circile
+    slow_print("How could he act like this to you?") # medium red circle on top of the other one
+    slow_print("How could he stand there, throwing a fit like an angry child?") # larger circle on top
+    pause()
+    slow_print("You realize that you hate him.") #knife in an open hand
+    pause()
+    slow_print("You realize that you want him gone.") #fingers close around the knife and grip it
+    pause()
+    slow_print("He turns to leave. You shove.") #black silhouette on red screen
+    pause()
+    slow_print("A sickening crack. The blood spreads like spilled paint. Maroon.")
+    slow_print("His eyeliner smears like a final curtain call.")
+    change_sanity(-40)
+    slow_print("The neighbor, an old lady, opens her door. You sob. You act.")
+
+    print("\nWhat do you say to the neighbor?")
+    print("1. \"Please, I need your help. It's serious.\"")
+    print("2. \"Call an ambulance. Now.\"")
+    print("3. \"I—I think he's dying.\"")
+    print("4. Say nothing. Just sob.")
+
+    choice = input("> ").strip()
+
+    if choice == "1":
+        slow_print("Your voice cracks. \"Please, I need your help. It's serious.\"")
+        slow_print("She fumbles for her phone, nodding quickly.")
+    elif choice == "2":
+        slow_print("You yell the order: \"Call an ambulance. Now.\"")
+        slow_print("Startled, she stares for half a second, and then dials with shaking fingers.")
+    elif choice == "3":
+        slow_print("You clutch at her sleeve. \"I—I think he's dying.\"")
+        slow_print("Her face drains of color. She pulls out her phone immediately and dials 9-1-1.")
+    elif choice == "4":
+        slow_print("You say nothing. Just sob—loud, messy, uncontrollable.")
+        slow_print("She takes one look at you, and starts dialing 9-1-1 without a word.")
+    else:
+        slow_print("You stammer something incoherent.")
+        slow_print("She doesn't wait for clarity. She calls 9-1-1 anyway.")
+
 
