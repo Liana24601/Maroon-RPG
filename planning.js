@@ -132,4 +132,26 @@ And then go back to:
 But you remember the guilt and sorrow in his gold-lined eyes.
 It mirrors the eyes you see right now.
 
+Anger flashes through your head. So do your memories.
+Dancing in NYC streets. Cafe dates and junk food. Hour-long calls on rusty landlines.
+You did it to save him! To save the apartment you both shared!
+He wouldn't ever succeed anyway, deluded by an impossible dream.
+How could he not understand?
+How could he act like this to you?
+How could he stand there, throwing a fit like an angry child?
+You realize that you hate him.
+You realize that you want him gone.
+
+He turns to leave. You shove.
+
+A sickening crack. The blood spreads like spilled paint. Maroon.
+His eyeliner smears like a final curtain call.
+The neighbor, an old lady, opens her door. You sob. You act.
+
+What do you say to the neighbor?")
+    1. "Please, I need your help. It's serious."
+    2. "Call an ambulance. Now."
+    3. "I—I think he's dying."
+    4. "Say nothing. Just sob."
+
 */
