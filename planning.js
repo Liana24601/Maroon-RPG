@@ -107,4 +107,15 @@ Choose your reply:
 3 = He screams. Quoting Shakespeare. Crying like his heart’s been pierced. You feel nothing. Or maybe too much.
 nothing = You say nothing. The silence crushes him.
 
+The Push
+
+Both of you exit the apartment in a rushed fury.
+The metal stairwell echoes with both your screams. Gold eyeliner streaks. Your anger spills raw.
+But when Robbie is shouting at you, there is more sadness than anger in his eyes.
+He looks exactly like he did a year ago, on your birthday.
+"I can't believe I messed up so badly." He said back then with a sigh.
+As a gift, he bought you carnations instead of roses. You laughed it off as a simple mistake.
+But you remember the guilt and sorrow in his gold-lined eyes.
+It mirrors the eyes you see right now.
+
 */
