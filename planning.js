@@ -115,6 +115,20 @@ But when Robbie is shouting at you, there is more sadness than anger in his eyes
 He looks exactly like he did a year ago, on your birthday.
 "I can't believe I messed up so badly." He said back then with a sigh.
 As a gift, he bought you carnations instead of roses. You laughed it off as a simple mistake.
+"But you remember the guilt and sorrow in his gold-lined eyes.
+It mirrors the eyes you see right now.
+
+"I can't believe I messed up so badly." He said back then with a sigh.
+What do you say to him?
+1. It's alright, things happen.
+2. Bad mistake, man. I guess I could buy more flowers?
+3. At least they'll still look pretty on the windowsill!
+
+1 - He forces a smile that doesn't make you feel quite nice.
+2 - His head drops in shame. You change the topic, as you regret making him feel bad with a single comment.
+3 - He laughs. You can still see the guilt in his face as you laugh with him. You hope that he'll forget about it like he always does.
+And then go back to:
+
 But you remember the guilt and sorrow in his gold-lined eyes.
 It mirrors the eyes you see right now.
 
