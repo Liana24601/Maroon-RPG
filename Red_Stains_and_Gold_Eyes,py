@@ -231,4 +231,28 @@ def murder_scene():
         slow_print("You stammer something incoherent.")
         slow_print("She doesn't wait for clarity. She calls 9-1-1 anyway.")
 
+    pause()
+    slow_print("Somewhere in your head, a voice whispers: \"What a performance. Maybe I'm the one who should have been an actor.\"")
+    slow_print("The voice in your head cackles maniacally.") # evil green goblin thing cackles with a wicked grin
+    slow_print("But the guilt forms a pit in your stomach.") # sad??
+    pause(2)
+    print(" - ")
+    slow_print("The building is a blur of uniforms and voices.")
+    slow_print("Someone asks you questions you don't remember. Someone pats your arm as a condolence.")
+    slow_print("But you only remember two things:")
+    pause()
+    slow_print("Robbie's hollow-eyed body being zipped away in a body bag.")
+    pause(2)
+    slow_print("And the maroon.")
+    slow_print("That beautiful, vibrant color. You see it everywhere.")
+    slow_print("In the siren's glow. In the red of the ambulance.")
+    slow_print("Even the sunset seemed to taunt you with that stunning red.")
+    pause()
+    slow_print("You smile.")
+    slow_print("You remember that line Robbie always says. The voice in your head recites it perfectly.")
+    slow_print("\"The evil that men do lives after them; the good is oft interred with their bones.\"")
+    slow_print("You laugh under your breath.") # cheshire grin
+    pause()
+    slow_print("The voice sounded exactly like him.")
+
 
