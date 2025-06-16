@@ -19,10 +19,6 @@ def change_sanity(amount):
     global sanity
     sanity += amount
     sanity = max(0, min(100, sanity))
-    if sanity <= 30:
-        slow_print("[The edges of your vision bleed maroon. Everything feels...louder.]")
-    elif sanity <= 60:
-        slow_print("[You feel... wrong. Disjointed. Like you left yourself behind.]")
 
 def intro():
     slow_print("Red Stains & Gold Eyes")
@@ -33,7 +29,7 @@ def wine_spill_scene():
     slow_print("You never wanted to kill him.") 
     slow_print("You remember him. The air smelt of cheap incense and theater dust.") 
     slow_print("Robbie spins in the living room, still in costume, wearing gold eyeliner that catches the warm kitchen light.") 
-    slow_print("He twirls a wine glass, trips over a throw pillow, and crashes to the hardwood.") 
+    slow_print("He twirls a wine glass, trips over a throw pillow, and crashes to the hardwood.")
     pause()
     slow_print("The rosé flies—dark, staining, like a wound—across your burgundy shirt.")  
     slow_print("You gasp. His laugh bubbles up like a musical cue.")  
@@ -47,7 +43,7 @@ def wine_spill_scene():
     print("3. You look beautiful.")
     choice = input("> ").strip()
     if choice == "1":
-        slow_print("He laughs. \"Geez, you didn't pull back any punches, huh?\"")
+        slow_print("\"It's the stupidest thing I've ever seen. So ugly.\" You tell him. He laughs. \"Geez, you didn't pull back any punches, huh?\"")
         change_sanity(-2)
     elif choice == "2":
         slow_print("\"Thanks, love.\" Your heart flutters.")
@@ -138,6 +134,7 @@ def fund_puzzle():
             change_sanity(-5)
             if attempts > 4:
                 slow_print("You feel watched. The apartment is still, but somehow hostile.")
+
 def argument_scene():
     global sanity
     slow_print("\nHe finds out.")
@@ -255,4 +252,90 @@ def murder_scene():
     pause()
     slow_print("The voice sounded exactly like him.")
 
+def haunting():
+    slow_print("\nAFTERMATH:")
+    if sanity <= 50:
+        slow_print("You hear him. Robbie. Reciting snarky lines only you can hear.")
+        slow_print("\"What a shame, Scarlett. Hurts almost as much as when you killed me.\"")
+        change_sanity(-10)
+    if sanity <= 20:
+        slow_print("Mirrors show flashes of gold eyes and crimson stains. You smile back at the ghost.")
+        slow_print("He follows you day by day. Making snide comments and dishing out lines from his favorite plays.")
+        slow_print("You feel comforted. He never left you. He never will.") # you silhouette and ghost robbie behind you
 
+def new_alley_ending():
+    slow_print("\nENDING — THE ALLEY:")
+    slow_print("Rockefeller Center. A girl in a maroon shirt skates with glee.")
+    slow_print("You ball your fists and clench your teeth.")
+    slow_print("Faint memories of wine and stained t-shirts arise. Fits of laughter on hardwood floors.")
+    slow_print("She wears your color. Robbie's color.")
+    pause()
+    slow_print("How dare she think she can act just like him.") # black words on red screen
+    slow_print("Robbie's ghost smiles tauntingly. \"In my opinion, you should give her a piece of your mind.\"") 
+    slow_print("You follow her. Past the rink. Past the lights. Past the laughter.") 
+    pause(1)
+    slow_print("Into a dark alley, quiet and slick with recent rain.")
+    slow_print("She turns. \"Can I help—\"")
+    pause(1)
+    slow_print("A scream. Your knife. Then nothing but silence.")
+    slow_print("You crouch beside her body. The blood pools. Deep. Dark. Beautiful. Maroon.")
+    slow_print("You touch it with reverence.")
+    pause()
+
+    while True:
+        print("\nWhat do you say to the empty alley?")
+        print("1. \"Robbie, you’d love this stage lighting.\"")
+        print("2. \"Look, love, I found our color.\"")
+        print("3. \"It always comes back to maroon, doesn’t it?\"")
+        choice = input("> ").strip()
+
+        if choice == "1":
+            slow_print("You: \"Robbie, you’d love this stage lighting.\"")
+            slow_print("In the corner of your eye, you see him. Blood-stained and golden-eyed.")
+            slow_print("His gold lined eyes scan the scene.")
+            slow_print("He smiles. \"It's beautiful, Scarlett.\"")
+            break
+        elif choice == "2":
+            slow_print("You: \"Look, love, I found our color.\"")
+            slow_print("In the corner of your eye, you see him smile. Blood-stained and beautiful.")
+            break
+        elif choice == "3":
+            slow_print("You: \"It always comes back to maroon, doesn’t it?\"")
+            slow_print("In the corner of your eye, you see Robbie grin. Blood-stained, golden-eyed, and beautiful.")
+            slow_print("\"Of course it does, that's your signature color.\" He teases.")
+            break
+        else:
+            slow_print("You say nothing. You look to the sky.")
+            slow_print("It's a deep red. Sunset maroon.")
+            pause()
+            slow_print("A truly perfect evening.")
+            break
+
+    pause()
+    slow_print("Sirens rise in the distance. Someone shouts. Muffled footsteps creep closer, approaching your direction.")
+    slow_print("You don’t run.")
+    pause(2)
+    slow_print("They find you kneeling in the blood, laughing like you’ve finally made it to Broadway.")
+    slow_print("Robbie is right there, laughing with you.")
+    slow_print("He whispers in your ear \"All the world's a stage... and you? You're the finale.\"")
+    slow_print("\n— THE END —")
+
+
+def play_game():
+    intro()
+    wine_spill_scene()
+    pause()
+    flashback()
+    pause()
+    fund_puzzle()
+    pause()
+    argument_scene()
+    pause()
+    murder_scene()
+    pause()
+    haunting()
+    pause()
+    new_alley_ending()
+
+if __name__ == "__main__":
+    play_game()
