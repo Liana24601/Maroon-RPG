@@ -14,7 +14,7 @@
 
 # The Game
 
-Writing stories based off my favorite songs has always been a fun pastime for me. This year, I thought I would take that hobby to the next level. I made my first ever RPG game based off Taylor Swift's song "Maroon". With masterfull storytelling, well-crafted writing, poetic lyric snippets, and a thrilling atmospshere, I believe this game is definitely something to see. Enjoy!
+Writing stories based off my favorite songs has always been a fun pastime for me. This year, I thought I would take that hobby to the next level. I made my first ever RPG game based off Taylor Swift's song "Maroon". With masterful storytelling, well-crafted writing, poetic lyric snippets, and a thrilling atmospshere, I believe this game is definitely something to see. Enjoy!
 
 #
 
