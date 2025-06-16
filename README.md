@@ -18,7 +18,7 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 
 #
 
-## The game includes...
+# The game includes...
 
 - Intriguing characters
 - Chilling writing
@@ -33,7 +33,7 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 
 # Also!!
 
-If you play the game and find it to your liking, be sure to star this repo!! Any and all support is appreciated, and feedback is alwaus welcome. Have a great day!
+If you play the game and find it to your liking, be sure to star this repo!! Any and all support is appreciated, and feedback is always welcome. Have a great day!
 
 ## Made with ❤️ using [GitHub README Generator](https://github.com/username/readme-generator)
 
