@@ -2,9 +2,7 @@
 
 <div align="center">
 
-[![Profile Badge](https://img.shields.io/badge/Profile-Liana24601-blue?style=for-the-badge&logo=github)}
-
-(https://github.com/Liana24601)
+[![Profile Badge](https://img.shields.io/badge/Profile-Liana24601-blue?style=for-the-badge&logo=github)](https://github.com/Liana24601)
 
 </div>
 
