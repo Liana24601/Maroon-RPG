@@ -172,6 +172,7 @@ def murder_scene():
     print("1. It's alright, things happen.")
     print("2. Bad mistake, man. I guess I could buy more flowers?")
     print("3. At least they'll still look pretty on the windowsill!")
+    choice = input("> ")
     if choice == "1":
         slow_print("\nHe forces a smile that doesn't make you feel quite nice.")
     elif choice == "2":
