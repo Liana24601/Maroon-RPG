@@ -2,6 +2,7 @@
 
 this file is gonna be used for planning out the whole story
 game name: red stains and gold eyes
+- make a tree, this is getting complicated :0
 
 basic story bullet points:
 - Thespian Robbie with gold eyeliner, like how cinna from the hunger games wore gold eyeliner 
@@ -51,21 +52,21 @@ First scene writing brainstorming
 - Deep voice: "It's not often I give people second chances."
 - Deep voice: "I'm an impatient person, I'm told. Always rushing too fast before they're ready."
 - Deep voice: "Always showing up at the wrong times."
-- Deep voice: "But you, Scarlett?"
+- Deep voice: "But you, little human?"
 - Deep voice: *Chuckle* "You're even worse than I am."
 - You (Scarlett): "who are you?"
 - Reaper: *EMERGES FROM SHADOWS*
 - Reaper: Who am I? *laughs* 
-- Reaper: I assure you, one day you will know who I am. I am all you are, all you know, and all you will be. It was I at the beginning and I who will remain.
+- Reaper: I assure you, one day you will know who I am. I am all you are, all you know, and all you will be. It was I at the beginning and I who will remain. You do not know what I speak right now, but trust me, *close up of his scythe with Scarlett's reflection in it* you will.
 - You (Scarlett): "what do u want from me?"
 - Reaper: *The air grows heavy, you sense he's angry* You did me wrong, Scarlett. 
 - Reaper: I do not enjoy dealing with you humans, but I grew fond of both Robert and the girl. Kind souls, even if they were not perfect at times. Their eyes held dreams we may never know.
-- Reaper: So...when you killed him, I was angered. But when you took the life of that innocent girl due to your anger-driven insanity? I grew furious. 
+- Reaper: So...when you killed them, I was angered. Your purposeless anger-driven insanity made me furious. 
+- Reaper: However, when there is a debt, I must collect.
 - Reaper: So I present to you this:
-- Reaper: I was in need of a soul that night. And when there is a debt, I must collect.
-- Reaper: I shall let you choose this time.
-- Reaper: You stole two souls last night. I only needed one. 
-- Reaper: You are to rewrite the story. You must make a choice. Save Robbie from yourself. Or save that girl's life. 
+- Reaper: I will let you make the choice.
+- Reaper: You in your anger, stole two lives. I am in need of one. 
+- Reaper: You are to rewrite the story. You must make a choice. Save Robbie from his fall. Or save that girl's life. 
 - Reaper: If you succeed to save one of them, I will pursue my search elsewhere. Fail, and I will take the life of the one you hold most dear:
 - Reaper: Yourself
 - Reaper: Good luck, little human. But remember...
@@ -146,11 +147,14 @@ central park "maroon sweater":
     - Use it well. *You look at the sunset*
 
 
+
 call:
-- but u feel nervous before you go to bed, knowing it might happen tomorow. you decide to play a game of fate. the player can pick yes or no to the game. you have 10 pieces of paper. in five of them you write "leave it alone.", in the other 5, you write "see her tomorrow."
+- but u feel nervous before you go to bed, knowing it might happen tomorow. you decide to play a game of fate. the player can pick yes or no to the game, which might help or hurt you. you have 10 pieces of paper. in five of them you write "leave it alone.", in the other 5, you write "see her tomorrow."
 - if u did not play the game and picked rockefeller she died. shes a rebellious person who wont listen to what she thinks is a prank call. the grim reaper takes u, as u failed to save robbie and her.
-- if u did not play the game and picked sweater she is saved. she is shocked that you know she has an exact red sweater and 
-- you pick a random pice. if u played the game, and picked see her tomorrow, you look across the rink to see her. she meets ur gaze and realized you were the one she called. as she gazes at u across the mall, your past self runs to her and stabs her with a knife from her purse. you failed.
+- if u did not play the game and picked sweater she is saved. she is shocked that you know she has an exact red sweater and wears a blue one instead. she is spared by your past self, and you are spared by the reaper
+- you pick a random piece. if u played the game, and picked see her tomorrow, you look across the rink to see her. she meets ur gaze and realized you were the one she called. as she gazes at u across the mall, your past self runs to her and stabs her with a knife from her purse. you failed. the reaper kills you.
+- if you picked leave it alone, she listens and you saved her.
+
 
 
 Robbie Route:
