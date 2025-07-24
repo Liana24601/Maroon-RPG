@@ -16,6 +16,17 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 
 #
 
+# Take a sneak peek!
+
+<div align="center">
+  <a href="https://shipwrecked.hackclub.com/?t=ghrm" target="_blank">
+    <img src="https://i.imgur.com/MxmaqU1.png" 
+         style="width: 35%;">
+  </a>
+</div>
+
+#
+
 # The game includes...
 
 - Intriguing characters
