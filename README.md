@@ -24,11 +24,14 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 - Pyschological thrillers
 - A supspenseful mystery
 - Multiple storylines
+- Stunning visuals
 - And a dark ending!
 
 <div align="center">
 
 #
+
+> Play it here! Press "run game" and click through the game to play! **[Liana24601](https://lianadothallik.itch.io/red-stains-gold-eyes)**
 
 # Also!!
 
