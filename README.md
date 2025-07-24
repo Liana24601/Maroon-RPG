@@ -31,7 +31,7 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 
 #
 
-> Play it here! Press "run game" and click through the game to play! **[Liana24601](https://lianadothallik.itch.io/red-stains-gold-eyes)**
+> Play it here! Press "run game" and click through the game to play! **[Game link :)](https://lianadothallik.itch.io/red-stains-gold-eyes)**
 
 # Also!!
 
