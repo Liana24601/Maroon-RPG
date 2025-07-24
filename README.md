@@ -23,6 +23,7 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 - Tough decisions
 - Pyschological thrillers
 - A supspenseful mystery
+- Multiple storylines
 - And a dark ending!
 
 <div align="center">
