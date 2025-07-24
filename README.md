@@ -38,6 +38,14 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 If you play the game and find it to your liking, be sure to star this repo!! Any and all support is appreciated, and feedback is always welcome. Have a great day!
 (And sorry about the lack of commits. I caught so caught in storyplanning and coding, mb gang)
 
+<div align="center">
+  <a href="https://shipwrecked.hackclub.com/?t=ghrm" target="_blank">
+    <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/739361f1d440b17fc9e2f74e49fc185d86cbec14_badge.png" 
+         alt="This project is part of Shipwrecked, the world's first hackathon on an island!" 
+         style="width: 35%;">
+  </a>
+</div>
+
 ## Made with ❤️ using [GitHub README Generator](https://github.com/username/readme-generator)
 
 
