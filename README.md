@@ -33,6 +33,7 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 # Also!!
 
 If you play the game and find it to your liking, be sure to star this repo!! Any and all support is appreciated, and feedback is always welcome. Have a great day!
+(And sorry about the lack of commits. I caught so caught in storyplanning and coding, mb gang)
 
 ## Made with ❤️ using [GitHub README Generator](https://github.com/username/readme-generator)
 
