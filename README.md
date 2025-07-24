@@ -36,7 +36,7 @@ Writing stories based off my favorite songs has always been a fun pastime for me
 # Also!!
 
 If you play the game and find it to your liking, be sure to star this repo!! Any and all support is appreciated, and feedback is always welcome. Have a great day!
-(And sorry about the lack of commits. I caught so caught in storyplanning and coding, mb gang)
+(And sorry about the lack of commits. I got so caught in storyplanning and coding, mb gang)
 
 <div align="center">
   <a href="https://shipwrecked.hackclub.com/?t=ghrm" target="_blank">
