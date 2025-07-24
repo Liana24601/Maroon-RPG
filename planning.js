@@ -2,7 +2,7 @@
 
 this file is gonna be used for planning out the whole story
 game name: red stains and gold eyes
-- make a tree, this is getting complicated :0
+- ADD ON TO EXISTING GAME SO I DONT HAVE TO EXPLAIN YEAAA
 
 basic story bullet points:
 - Thespian Robbie with gold eyeliner, like how cinna from the hunger games wore gold eyeliner 
@@ -52,38 +52,89 @@ First scene writing brainstorming
 - Deep voice: "It's not often I give people second chances."
 - Deep voice: "I'm an impatient person, I'm told. Always rushing too fast before they're ready."
 - Deep voice: "Always showing up at the wrong times."
+- Deep voice: "Always acting too quick and leaving too soon."
 - Deep voice: "But you, little human?"
 - Deep voice: *Chuckle* "You're even worse than I am."
 - You (Scarlett): "who are you?"
 - Reaper: *EMERGES FROM SHADOWS*
 - Reaper: Who am I? *laughs* 
 - Reaper: I assure you, one day you will know who I am. I am all you are, all you know, and all you will be. It was I at the beginning and I who will remain. You do not know what I speak right now, but trust me, *close up of his scythe with Scarlett's reflection in it* you will.
-- You (Scarlett): "what do u want from me?"
+- You are frozen, stuck in place. This all too much to comprehend.
+- You try to make sense of it all.
+- You (Scarlett): "what do u want from me?" you ask the specter.
 - Reaper: *The air grows heavy, you sense he's angry* You did me wrong, Scarlett. 
-- Reaper: I do not enjoy dealing with you humans, but I grew fond of both Robert and the girl. Kind souls, even if they were not perfect at times. Their eyes held dreams we may never know.
-- Reaper: So...when you killed them, I was angered. Your purposeless anger-driven insanity made me furious. 
+- Reaper: I do not enjoy dealing with you humans, but I grew fond of both Robert and the girl. Kind souls, even if they were not perfect at times.
+- Reaper: So...when you killed them, I was angered.
+- Reaper: Your purposeless jealousy-driven insanity made me furious. 
 - Reaper: However, when there is a debt, I must collect.
 - Reaper: So I present to you this:
-- Reaper: I will let you make the choice.
-- Reaper: You in your anger, stole two lives. I am in need of one. 
-- Reaper: You are to rewrite the story. You must make a choice. Save Robbie from his fall. Or save that girl's life. 
+- Reaper: You will make the choice.
+- Reaper: You, in your anger, stole two lives. I am in need of only one. 
+- Reaper: You are to rewrite the story. You must make the decision. Save Robbie from his fall. Or save that girl's life. 
 - Reaper: If you succeed to save one of them, I will pursue my search elsewhere. Fail, and I will take the life of the one you hold most dear:
-- Reaper: Yourself
+- Reaper: Yourself.
 - Reaper: Good luck, little human. But remember...
 - Reaper: It always comes back to maroon.
 
 You skim through your memories of the plot. You see the whole story for yourself.
-You choose who to save, the girl or robbie, or both?
+You wake up in a dark, shabby apartment. choose who to save, the girl or robbie, or both?
 
 Girl Route:
-- It's too late for Robbie, but maybe not for her?
-- the game becomes a race to find her before time runs out.
+- It's too late for Robbie, but maybe not for her? (Ruby, blonde, brown eyes, 24)
+It's too late for Robbie, but maybe not for her?
+
+[[Continue|G1]]
+
+You pace the room. You have to find her before your time runs out, before everything goes wrong.
+
+[[Continue|G3]]
+
+You try to think. She died because you went crazy and killed her because of her sweater...
+
+[[Continue|G4]]
+
+(Which sounds absolutely insane, now that you think about it)
+
+[[Continue|G5]]
+
+So that means you have to find her before your crazy past self does. In two weeks.
+
+[[Continue|G6]]
+
+You think. What do you remember about her?
+
+[[Continue|G7]]
+
+Blonde hair. Brown eyes eyes. Red sweater. Seemed about 24 years old.
+
+[[Continue|G8]]
+
+That's not enough. You need an image.
+
+[[Continue|G9]]
+
+You run through the other rooms, shuffling through dusty closets until you find what you're looking for; a crumpled notepad and a pen that's losing its ink.
+
+[[ContinueG11]]
+
+You hurriedly draw two photos of the girl, straight out your memory, hoping one of them is good enough for use.
+
+[[Continue|G12]]
+
+These are the results:
+
+<img src="https://i.imgur.com/YYx2une.png" height="300">
+
+Which drawing will you use?
+- The one of the left [[Continue|drawing]]
+- The one on the right [[Continue|drawing]]
+
+- the game becomes a race to find her before time runs out. you end up in a dark shed
 - you start two weeks before the incident, on the day u and robbie first meet.
 - you race around new york city, trying to look for her. You don't know anything but her face and her fateful maroon sweater.
 - You choose to use your memory of her face as your clue
 - Her face: you hire a sketch artist for a drawing of her. then you need to find a hacker who can put her face in an aligorithim.
-- You choose where to find the hacker. online from the dark shed the reaper placed u in or in person in shady underground markets where the hackers are found.
-- (you check in on robbie at many points of the game, u see your past self with him)
+- With ur skecth for reference, you choose where to find the hacker. online from the dark shed the reaper placed u in or in person in shady underground markets where the hackers are found. in the undergound markets of new york, you meet a chill hacker guy who agrees to help you out free of cost. hes bubbly and happy.
 - online: the "hacker" steals ur info. ur set back, with only a week until she dies. you give up and paste flyers of her face over the city. underground: you meet a shady but chill guy who agrees to help you.
 - flyers: she finds ur flyer, and is shocked. she calls you. chill guy: he finds her face in central park. you go.
 - call: you try to explain the situation to her. you dont wanna scare her. if u say "dont go to rockefeller" or "dont wear your maroon sweater on wednesday" before you quickly hang up hoping she'll listen. central park: you are ominous, she is confused. you speak to her from behind a tree, so she doesnt see ur face. all you see is her blonde hair. you have choose between saying "meet me at this cafe tomorrow, ill explain everything" or "dont wear your maroon sweater on wednesday" before you leave mysteriously.
@@ -93,12 +144,12 @@ central park "maroon sweater":
 - if u open the text: you find the hacker saying "found ur girl at Lady Liberty today :)" with a photo of her from security cameras. your stomach drops. you realize your memory failed when u told the skecth artist. you said her eyes were blue, but they were actually brown.
 - if u dont open the text: you make a cup of coffee lazily. the hacker calls you repeatedly until u pick up. you recieve the same info but over call.
 - you realize that you have found the wrong girl. you panick until you realize you have to do something, maybe you can still find her. you tear off your pajamas, throw on a jacket and some decent clothes, grab ur keys, and run to the door
-- but as you reach rockefeller, there is a a crowd gathered around something. you see officers and ambulences. police tape. you ask a guy what happened. he tells u your worse fears while shaking his head: "some crazy lady just murdered this girl for no reason"
+- but as you reach rockefeller, there is a a crowd gathered around something. you see officers and ambulences. police tape. you ask a guy what happened. he tells u your worse fears while shaking his head: "some crazy lady just murdered this girl for no reason. prob a psych ward escapee"
 - you push through the crowd to find the crime scene lined by police tape. officers stay circled around, shouting orders into walkie talkies.
 - but you can still see as your doppleganger cackles hysterically, drenched in blood, with a girl at her feet.
 - you watch in horror until your vision becomes dizzy and you find your self in a void of darkness
 - the reaper has come. you fear the worst. you have failed ur task. you haven't saved robbie or the girl. you have run out of time. your heartbeat quickens as you wait for the axe to fall
-- but the reaper is oddly calm and civil when he talks to you. he makes small talk about the weather "the sunset is betaiful today, vibrant and maroon.". you are shocked until he tells you:
+- but the reaper is oddly calm and civil when he talks to you. he makes small talk about the weather "the sunset is betaiful today, vibrant and maroon." you are shocked until he tells you:
 - "In all honesty, I really don't know what to do with you, little human. I admire your effort and dedication, one fo my favorite traits. However, you have ultimately failed your tasks. Thus, I am unsure whether the killing blow is rightfully deserved or not. But rather than make this perilous decsion myself, I will leave your fate in the hands of my good friends..."
 - "Luck." *A golden goddess appears, with a golden glow*
 - Luck: *happily* Hello there!
@@ -111,14 +162,15 @@ central park "maroon sweater":
 - "Not even I can help you now."
 - Luck: "Let's begin. I have four cards that will decide your fate. Ace of Spades. Jack of Clubs. Queen of Hearts. And the King of Diamonds. 2 will help. 2 will hurt. But don't worry, deary, your future is not decided until you complete the entire challenge. Choose 1."
 - Wit: "Scarlett. Be completely honest with me. Did you do this to save the girl (lies, compassion) or to save yourself (selfish, honesty)?" options: "save the girl" or "myself. im sorry"
-- they speak before turnign to you
+- they speak before turning to you
 - Ace of Spades + "save the girl" = Wit: Luck and I have decided. You luck is spoiled and your intelligence non-existent. You picked the wrong card. And you lied to me in order to save yourself. 
-    - I'll have you know, child. I don't hace the patience for lies.
+    - I'll have you know, child. I don't have the patience for lies.
     - An unknown force knocks you down. Wit points her spear at you, the silver tip an inch away from your heart.
     - She looks at the reaper. "Waiting for your command, Reaper."
     - You look at the reaper. You choose between saying "Please! I'll try again." or "Help me!"
     - Both choices are useless. The reaper nods. "Proceed."
     - Wit lifts her spear and then plunges it.
+    - You are dead as soon as the spear pierces your heart.
 - Queen of Hearts + "save the girl" = Wit: Luck and I have decided. Luck: You have rotten luck. It's a shame, dear. Wit: And your intelligence non-existent. You picked the wrong card. And you lied to me in order to save yourself. 
     - I'll have you know, child. I don't hace the patience for lies.
     - An unknown force knocks you down. Wit points her spear at you, the silver tip an inch away from your heart.
@@ -126,8 +178,8 @@ central park "maroon sweater":
     - You look at the reaper. You choose between saying "Please! I'll try again." or "Help me!"
     - Both choices are useless. The reaper nods. "Proceed."
     - Wit lifts her spear and then plunges it.
-- Jack of Clubs + "myself. im sorry":
-- King of Diamonds + "myself. im sorry": Luck: *smiling* Wit and I have decided. You have an eye for the right cards. Your luck is pretty favorable!
+    - You are dead as soon as the spear pierces your heart.
+- Jack of Clubs + "myself. im sorry": Luck: *smiling* Wit and I have decided. You have an eye for the right cards. Your luck is pretty favorable!
     - Wit: And I found your answers satisfactory. Honesty is an admirable trait.
     - You: "Wait, does this mean..." or "What exactly are you saying?"
     - Luck: *grins* YOU PASSED!!
@@ -145,21 +197,31 @@ central park "maroon sweater":
     - *Chuckles* As Wit said...
     - Life is a gift *You wake up in your bed*
     - Use it well. *You look at the sunset*
-
-
+- King of Diamonds + "myself. im sorry": Luck: *smiling* Wit and I have decided. You have an eye for the right cards. Your luck is pretty favorable!
+    - Wit: And I found your answers satisfactory. Honesty is an admirable trait.
+    - You: "Wait, does this mean..." or "What exactly are you saying?"
+    - Luck: *grins* YOU PASSED!!
+    - Wit: You have succeeded in completing our trial, and have proven yourself worthy.
+    - Luck: We wish you the best of luck in your future endeavors!
+    - Wit: Farewell, child. Life is a gift. Use it well.
+    - They disappear. You and the reaper are alone.
+    - Reaper: *chuckles* Quite a handful, aren't they?
+    - You: say "yeah, they were something lol" or "just nod. you dont want to risk it"
+    - Reaper: Humans, I find, are complex creatures. They spend years worrying about the wrong things only to meet me and realize that they have wasted their time.
+    - It is only when they see me they realize that they have let hatred and fear and greed consume them when they should have been enjoying their time here, which is shorter than one believes it to be.
+    - Not many get the chance to redo things, little human. You are a rare soul.
+    - So I ask that use this chance. Do not dwell on your past, your decisions, nor the things that are no longer in your grasp.
+    - I request that you spend your time wisely, fulfilling your own dreams.
+    - *Chuckles* As Wit said...
+    - Life is a gift *You wake up in your bed, extremely comfortable but shaken, clutching at the covers.*
+    - Use it well. *You look at the sunset*
 
 call:
 - but u feel nervous before you go to bed, knowing it might happen tomorow. you decide to play a game of fate. the player can pick yes or no to the game, which might help or hurt you. you have 10 pieces of paper. in five of them you write "leave it alone.", in the other 5, you write "see her tomorrow."
+- the player is given options 1-10. 1, 3, 7, 8, and 5 are "leave it alone", the others are "see her tomorrow"
 - if u did not play the game and picked rockefeller she died. shes a rebellious person who wont listen to what she thinks is a prank call. the grim reaper takes u, as u failed to save robbie and her.
 - if u did not play the game and picked sweater she is saved. she is shocked that you know she has an exact red sweater and wears a blue one instead. she is spared by your past self, and you are spared by the reaper
-- you pick a random piece. if u played the game, and picked see her tomorrow, you look across the rink to see her. she meets ur gaze and realized you were the one she called. as she gazes at u across the mall, your past self runs to her and stabs her with a knife from her purse. you failed. the reaper kills you.
-- if you picked leave it alone, she listens and you saved her.
-
-
-
-Robbie Route:
-- getting the funds to stop the apartment from blooding
-- if u succeed, you leave the money on the counter for your past self to find. 
-- if not, Robbie dies and the grim reaper takes you.
+- you pick a random piece. if u played the game, and picked "see her tomorrow", you look across the rink to see her. she meets ur gaze and realized you were the one she called. as she gazes at u across the mall, your past self runs to her and stabs her with a knife from her purse. you failed. the reaper kills you.
+- if you picked "leave it alone", she listens and you saved her.
 
 */
